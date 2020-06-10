@@ -1,2 +1,2 @@
 # random_pass
-(low/medium/high)
+*(low/medium/high)*
